@@ -1,1 +1,1 @@
-# serverless-course
+# Serverless Course
